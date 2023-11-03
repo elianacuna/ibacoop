@@ -14,6 +14,7 @@ body{
     height: 800px;
     border: 1px solid #C1C1C1;
     border-radius: 20px;
+    margin-top: -150px;
     background-color: transparent;
 }
 
@@ -112,5 +113,11 @@ body{
     border-radius: 10px;
     margin-left: 50%;
     margin-top: 20px;
+    border: 1px solid #C1C1C1;
     transform: translate(-50%, -50%);
 }
+.recover_btn:hover {
+    background-color: #F6F6F6; 
+    color: black; 
+    border: 1px solid #C1C1C1;
+  }
